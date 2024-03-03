@@ -1,0 +1,1 @@
+Designed and developed a visually captivating clone website reminiscent of Apple Vision Pro. Leveraged GSAP animations to achieve a dynamic 3D-like user interface. Incorporated Canvas for interactive elements and utilized Locomotive Scroll for seamless navigation. Demonstrated proficiency in advanced web technologies and creative design.
